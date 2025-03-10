@@ -1,7 +1,7 @@
 <h2>Discalimer</h2>
 
 This project was created as an assignment for the Frontend Development Training Course organized by Kreativestorm.
-It represents 1 of 2 main assignments of the 3rd week, out of the 4 weeks of this course, along side https://github.com/AlexGTraining/fdc_guess_numbers_game.
+It represents 1 of 2 main assignments of the 3rd week, out of the 4 weeks of this course, along side https://kiranali25.github.io/Rochambeau_game_Kreativstorm/.
 
 <h2>Requirements</h2>
 
@@ -27,7 +27,7 @@ It represents 1 of 2 main assignments of the 3rd week, out of the 4 weeks of thi
 
 <h3>Preview</h3>
 
-https://alexgtraining.github.io/fdc_rochambeau_game/
+https://kiranali25.github.io/Rochambeau_game_Kreativstorm/
 
 <h3>Considerations</h3>
 
